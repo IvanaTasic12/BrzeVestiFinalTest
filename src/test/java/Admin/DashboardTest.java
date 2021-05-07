@@ -12,10 +12,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 
-public class Dashboard {
+public class DashboardTest {
     private static WebDriver driver;
     
-    public Dashboard() {
+    public DashboardTest() {
     }
     
     @BeforeClass
